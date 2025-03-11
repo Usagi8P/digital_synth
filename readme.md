@@ -8,3 +8,9 @@ The increadible articles by [Alan - Making A Synth With Python — Oscillators](
 Modules for:
 - Base frequency
 - Adjusting Amplitude
+
+
+### TODO
+- [x] Sine wave
+- [x] Square wave
+- [ ] Sawtooth wave
