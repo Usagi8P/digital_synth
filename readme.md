@@ -13,4 +13,4 @@ Modules for:
 ### TODO
 - [x] Sine wave
 - [x] Square wave
-- [ ] Sawtooth wave
+- [x] Sawtooth wave
